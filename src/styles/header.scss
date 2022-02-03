@@ -1,15 +1,14 @@
 header.header {
-  background: var(--blue);
-  padding-top: 2rem;
-  
-  > div {
-    max-width: 1120px;
-    margin: 0 auto;
+  background: linear-gradient(90deg, #202024 0%, #00291D 100%);
 
-    padding: 2rem 1rem 12rem;
+  padding: 4rem 12rem 12rem;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+  img.ignite-logo {
+    margin: 8px 24px 0 0;
   }
 }

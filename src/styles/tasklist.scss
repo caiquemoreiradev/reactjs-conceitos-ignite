@@ -1,5 +1,5 @@
 section.task-list {
-  background: var(--shapes);
+  background-color: #202024;
   border-radius: 1rem;
   
   margin-top: -10rem;
@@ -14,7 +14,6 @@ section.task-list {
     justify-content: space-between;
     
     h2 {
-      color: var(--text-title);
       font-size: 2.25rem;
     }
 
@@ -23,7 +22,6 @@ section.task-list {
       gap: 0.25rem;
       align-items: center;
 
-      background: #fff;
       font-size: 16px;
       
       input {
@@ -74,6 +72,8 @@ section.task-list {
         border-bottom: 1px solid #EBEBEB;
         padding: 1rem 0;
 
+        color: rgb(168, 168, 179);
+
         div {
           display: flex;
           align-items: center;
@@ -82,7 +82,6 @@ section.task-list {
 
           p {
             font-size: 1rem;
-            color: var(--text);
           }
 
           &.completed {
