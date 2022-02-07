@@ -11,7 +11,7 @@ O desafio proposto seria concluir três funcionalidades a uma aplicação de to-
 
 ![App Screenshot](https://uploaddeimagens.com.br/images/003/710/152/full/todo_-_ignite.png?1644238986)
 
-## Demonstraçãp
+## Demonstração
 
 ![App Screenshot](https://thumbs.gfycat.com/DirectOnlyKitty-size_restricted.gif)
 
