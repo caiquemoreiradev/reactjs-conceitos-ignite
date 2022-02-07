@@ -9,13 +9,16 @@ O desafio proposto seria concluir três funcionalidades a uma aplicação de to-
 
 ## Desafio completo
 
-![App Screenshot](https://lh3.googleusercontent.com/yqJweG_yIvRvTDvGUUygFaNXOJKAlhtY0nJ-lMBJfJuVKh8zIbVuLShGnKhfWTxlDHUaLlbrLpmoK6TX3xAWnlsQXIhwyCsyEHTknsJ3OnR5emejrNyVj9fN7sVEBeKBi5oPZ9jvxUiv1KOlKppELZDW4EDrAHfgNNqNMCmyOOFdeHy1Gi8OeJDX4zyBph0RBNBBDzJNwfbm2xcSOWVSR3_jMhE25MSqEPnDFsjMwXw9Sm4AoCqrfoNmgqj3IxR04MhJ_rwY8bjWpVYVnzDkP_c8hfpwDfag_BRDoSRNxzG8a1uk8ig4T1EAbbjHLzaeGn1z7qVRhhGqMInz57gVpGmlqwSSXlhdK54i8ax4J0xgpts_uKqNXD7OodRJzv2wKLkOxV_zqT6iRQtBLEqhZH22pxujBEmOE1qiQh6A1laa2WGqJ5umw_t9kTZqnAgHgf3D_JMuFFvx2RdvUpaKR-ZOJ4v2iQfPII6VX_PDVkQ3uUa-IJ6UhJ54r4l3yqQBC0LQrIsofWOdszsIwUJMh1sZf4Jg05kPhLxxK_c8NI5Fi4DStiAiFLOoP4t-WJRRb2L8pIBjYWWo6WstfnKTIvevdUK8kzq7Iy9QupapdH5AtSIjfIztOwiTNo79dXejDNyzJtfuhujxhHiqW_nj9FOhQ4UkmVp0v9OXHP9sdEwJk1W7zAHi-AJ-fbw3uzH5__lQR2EdYz1Y5um8A_UCaws=w1336-h611-no?authuser=0)
+![App Screenshot](https://uploaddeimagens.com.br/images/003/710/152/full/todo_-_ignite.png?1644238986)
+
+## Demonstraçãp
+
+![App Screenshot](https://thumbs.gfycat.com/DirectOnlyKitty-size_restricted.gif)
 
 
 ## Stack utilizada
 
 **Front-end:** ReactTS, SASS
-
 
 
 ## Aprendizados
